@@ -1,0 +1,27 @@
+a {
+  color: rgb(0, 113, 133);
+}
+.productName {
+  font-size: 24px;
+  font-weight: bold;
+}
+.priceInfo {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+.addBtn {
+  color: black;
+  border: none;
+  background-color: rgb(255, 216, 20);
+  border-radius: 20px;
+  height: 25px;
+  width: 115px;
+}
+.buyBtn {
+  color: black;
+  border: none;
+  background-color: rgb(255, 164, 28);
+  border-radius: 20px;
+  height: 25px;
+  width: 115px;
+}
