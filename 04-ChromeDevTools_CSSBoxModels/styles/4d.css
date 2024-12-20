@@ -1,0 +1,19 @@
+.get_started {
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background: rgb(121, 82, 179);
+  padding: 9px 19px;
+  font-weight: bold;
+}
+.download {
+  border: 1px solid rgb(108, 117, 125);
+  border-radius: 5px;
+  background: white;
+  color: rgb(108, 117, 125);
+  padding: 8px 19px;
+  font-weight: bold;
+}
+.get_started:hover {
+  background-color: rgb(108, 73, 161);
+}

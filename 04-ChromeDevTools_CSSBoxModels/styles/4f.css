@@ -1,0 +1,41 @@
+a {
+  color: rgb(0, 113, 133);
+}
+a:hover {
+  color: rgb(255, 164, 28);
+}
+.productName {
+  font-size: 24px;
+  font-weight: bold;
+}
+.priceInfo {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+.addBtn {
+  color: black;
+  border: none;
+  background-color: rgb(255, 216, 20);
+  border-radius: 20px;
+  padding: 7px 32px;
+}
+.addBtn:hover {
+  background-color: rgb(211, 179, 16);
+}
+.addBtn:active {
+  opacity: 0.7;
+}
+.buyBtn {
+  color: black;
+  border: none;
+  background-color: rgb(255, 164, 28);
+  border-radius: 20px;
+  padding: 7px 32px;
+}
+.buyBtn:hover {
+  background-color: rgb(205, 133, 24);
+}
+
+.buyBtn:active {
+  opacity: 0.7;
+}

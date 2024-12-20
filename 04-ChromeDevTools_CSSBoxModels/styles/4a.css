@@ -1,0 +1,9 @@
+button {
+  color: white;
+  background-color: black;
+  border: none;
+  padding: 7px 13px;
+}
+button:hover {
+  opacity: 80%;
+}
