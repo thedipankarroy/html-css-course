@@ -1,0 +1,21 @@
+.apply_btn {
+  color: white;
+  background: rgb(10, 102, 194);
+  border: none;
+  border-radius: 15px;
+  width: 180px;
+  height: 30px;
+  font-weight: bold;
+}
+.save_btn {
+  color: rgb(10, 102, 194);
+  background: white;
+  height: 30px;
+  width: 70px;
+  border: 1px solid rgb(10, 102, 194);
+  border-radius: 15px;
+  font-weight: bold;
+}
+.apply_btn:hover {
+  background-color: rgb(9, 77, 146)
+}
